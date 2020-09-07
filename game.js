@@ -35,7 +35,7 @@ let questions = [
         choice4: "波斯人歐塔涅斯",
         answer: 4,
     },
-    /*{
+    {
         question: "人類的五感中，哪個部位感覺反應最快?",
         choice1: "嗅覺",
         choice2: "視覺",
@@ -490,7 +490,7 @@ let questions = [
         choice3: "探險號",
         choice4: "毅力號",
         answer: 4,
-    },*/
+    },
 ]
 
 const SCORE_POINTS = 100
