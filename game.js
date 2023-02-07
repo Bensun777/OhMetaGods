@@ -348,12 +348,12 @@ let questions = [
         answer: 2,
     },
     {
-        question: "哪個植物可以減少藍光，降低電子產品對眼睛的傷害?",
-        choice1: "仙人掌",
-        choice2: "霸王花",
-        choice3: "豬籠草",
-        choice4: "常春藤",
-        answer: 1,
+        question: "根據犯罪心理學的研究，為什麼反社會人格的殺人犯，在犯罪是會沒有悔意或自責感",
+        choice1: "缺乏同理心基因",
+        choice2: "先天具有反社會人格基因",
+        choice3: "生活中缺少與人的羈絆",
+        choice4: "童年時期遭受重大心理創傷",
+        answer: 3,
     },
     {
         question: "在水裡倒入什麼可以除去臭味，還可以殺菌?",
