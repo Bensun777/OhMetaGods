@@ -44,7 +44,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "下列哪種物品在監獄裡面被當成貨幣使用?",
+        question: "下列哪種物品在美國的監獄裡面被當成貨幣使用?",
         choice1: "菸",
         choice2: "泡麵",
         choice3: "紙",
